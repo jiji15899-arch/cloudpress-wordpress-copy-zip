@@ -1,1 +1,0 @@
-# cloudpress-wordpress-copy-zip
